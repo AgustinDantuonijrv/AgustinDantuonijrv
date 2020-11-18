@@ -3,7 +3,7 @@
 - 🔭 I'm currently working on ... Android native Development
 - 🌱 I’m currently learning ...Spring Boot
 - 👯 I’m looking to collaborate on ...Android Libraries
-- 🤔 I’m looking for help with ...Flutter cause helps me do some works faster
+- 🤔 I’m looking for help with ...Flutter cause helps me do some work faster
 - 💬 Ask me about ...Android native and ios native apps
 - 📫 How to reach me: ... agusdantuoni25@gmail.com
 - ⚡ Fun fact: ...Currently looking for JR. java position (frontend or backend)
